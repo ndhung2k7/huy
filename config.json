@@ -1,0 +1,11 @@
+{
+  "message": "Xem link bên dưới 👇",
+  "title": "My Note",
+  "alias": "",
+  "domain": "anonlink.vip",
+  "buy_type": "buy-all",
+  "amount": 10000,
+  "apis": [
+    "https://anonlink.co/api"
+  ]
+}
